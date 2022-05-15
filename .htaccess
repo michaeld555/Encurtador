@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^home/?$ /index.php [NC,L]
+RewriteRule ^r/?$ /controller/redirect.php [NC,L]
