@@ -16,7 +16,7 @@
                 <h1>Encurtador de URL</h1>
                 <div class="input-group mb-3 textfield" id="divlink">
                 <input type="text" class="form-control" id="link" placeholder="Insira seu link aqui" aria-label="Link" aria-describedby="button-addon2">
-                <button class="btn btn-success" onclick="gerar()" type="button" id="encurtar">Encurtar</button>
+                <button class="btn btn-success" type="button" id="encurtar">Encurtar</button>
                 </div>
                 <div class="input-group mb-3 textfield" id="link-gerado"></div>
                 <a onclick="back()" href="#" id="newlink"></a>
