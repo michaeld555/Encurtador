@@ -8,8 +8,8 @@ Um simples encurtador de Url feito para dinamizar o envio de links muito grandes
 A aplicação guarda sua Url no banco e gera um link dinamico e curto, que ao ser acessado redireciona para a url armazenada.
 
 ## Layout mobile
- <div>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  <img src="https://www.imagemhost.com.br/images/2022/05/16/photo1652670425.jpg" alt="drawing" width="278"/>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ <div>⠀
+  <img src="https://www.imagemhost.com.br/images/2022/05/16/photo1652670425.jpg" alt="drawing" width="278"/>⠀⠀⠀⠀
   <img src="https://www.imagemhost.com.br/images/2022/05/16/photo1652670405.jpg" alt="drawing" width="278"/>
 </div>
 
