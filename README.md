@@ -2,8 +2,6 @@
 
 # Sobre o projeto
 
-https://www.crudmichael.fun/
-
 Um simples encurtador de Url feito para dinamizar o envio de links muito grandes. A aplicação faz uso de banco de dados, sendo necessario Mysql para roda-lá.
 A aplicação guarda sua Url no banco e gera um link dinamico e curto, que ao ser acessado redireciona para a url armazenada.
 
